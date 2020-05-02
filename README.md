@@ -1,2 +1,2 @@
 # Hello_world
-first repository on GitHub
+learning new things
